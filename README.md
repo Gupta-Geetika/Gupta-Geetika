@@ -21,7 +21,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Gupta-Geetika&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gupta-Geetika&theme=radical"/>
 |---|---|
 
-<img align="right" alt="GIF" src="ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="me.gif" width="500" height="320" />
  
 
 ## Languages & Tools:
