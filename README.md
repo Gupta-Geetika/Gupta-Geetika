@@ -2,11 +2,11 @@
 
 ## Hi! I AM GEETKA GUPTA👋
 
-- 👨🏻‍🎓I'm a graduation student.I am pursuing Bachelor of Technology in Computer Science and Engineering.  
-- 😄My current field of learning is Data Science.  
-- 👨🏻‍💻I generally code in C++ and i am also familiar with C , JAVA AND html & css.
+- 👨🏻‍🎓I'm a undergraduation student pursuing Bachelor of Technology in Computer Science and Engineering.  
+- 😄I am organised, detail-oriented and resourceful.  
+- 👨🏻‍💻I generally code in C++ and I am also familiar with C , JAVA, HTML & CSS.
 
- ⚡ Fun fact: I love Reading.🤭🎶🎶
+ ⚡ Fun fact: I love listening to music and write poetry in my liesure time.🤭🎶🎶
  
  ## Feel free to talk to me:😄
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gupta-Geetika/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/Gupta-Geetika/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Gupta-Geetika/)
